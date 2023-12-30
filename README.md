@@ -1,54 +1,53 @@
 *This is a template repository for this organization. Start by replacing the placeholder for the project name with it's actual title.*
 
-# [Project Name]
+# [Demonstration Project title]
 
 ## Summary
-*This section is to be filled out by the project manager based on the [summary document](https://docs.google.com/spreadsheets/d/12xi2yOMm-X5PEecgyRe3WEurcSaN9A5z4DHgBacQT6M).*
 
-| Company | [Company](https://website.link) |
+| Company name | [Company](https://website.link) |
 | :--- | :--- |
-| Project Manager | [Project Manager](https://profile.link) |
-| Project Team | [Team Member 1](https://profile.link); [Team Member 2](https://profile.link); ... |
-| Challenge Tackled |  |
-| Technology Used |  |
-| Lessons Learned |  |
-| Result Published |  |
-| Target Group |  |
-| Diagrams/Photos |  |
-| Video |  |
+| Development Team Lead Name | [First name, Surname](https://profile.link) |
+| Development Team Lead e-mail | [Team Member 1](https://profile.link) |
+| Objectives of the Demonstration Project |  |
 
-## Implementation Details
+# Each project has an alternative:
 
-*This section is to be filled out by the development team. You should describe details about the technical implementation right here. To get started, you can use [this guide](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) from freeCodeCamp for inspiration. Please note that some of the sections are already included below but you can add more.*
+- *a) To fill in the description [below](https://github.com/ai-robotics-estonia/_project_template_/edit/main/README.md#implementation-details)*
+*OR*
+- *c) a custom agreement with the AIRE team*
 
-### Description
+## Objectives of the Demonstration Project
+*Please provide your objectives here.*
 
-- *What your application does,*
-- *Why you used the technologies you used,*
-- *Some of the challenges you faced and features you hope to implement in the future.*
+## Activities and results of demonstration project
+*Challenge addressed (i.e. whether and how the initial challenge was changed during the project, for which investment the demonstration project was provided)*
+-  *a)*
 
-### How to Install & Run
+*Data sources (which data was used for the technological solution)*
+-  *a)*
 
-*Provide a step-by-step description of how to get the development environment set and running.*
+*Description and justifictaion of used AI technology*
+-  *a)*
 
-### How to Use
+*Results of testing and validating technological solution*
+-  *a)*
 
-*Provide instructions and examples so users/contributors can use the project.*
+*Technical architecture (presented graphically, where can also be seen how the technical solution integrates with the existing system)*
+-  *a)*
 
-### Credits
+*Potential areas of use of technical solution*
+-  *a)*
 
-*If you followed tutorials or referenced a certain material that might help the user to build this particular project, include links to those here.*
+*Lessons learned (i.e. assessment whether the technological solution actually solved the initial challenge)*
+-  *a)*
 
-### Licensing
+### Description of User Interface 
+*(i.e. How does the client 'see' the technical result, whether a separate user interface was developed, command line script was developed, was it validated as an experiment, can the results be seen in ERP or are they integrated into work process)*
+-  *a)*
 
-*Point out your software license. In case this is something different than an MIT license, explain why.*
 
-[MIT License](/LICENSE)
+## Custom agreement with the AIRE team
 
-### How to Contribute
+*If you have a unique project or specific requirements that don't fit neatly into the Docker file or description template options, we welcome custom agreements with our AIRE team. This option allows flexibility in collaborating with us to ensure your project's needs are met effectively.*
 
-*Add guidelines to let other developers know how they can contribute to your project.*
-
-### Testing
-
-*Provide code examples and how to run tests for your project.*
+*To explore this option, please contact our demonstration projects service manager via katre.eljas@taltech.ee with the subject line "Demonstration Project Custom Agreement Request - [Your Project Name]." In your email, briefly describe your project and your specific documentation or collaboration needs. Our team will promptly respond to initiate a conversation about tailoring a solution that aligns with your project goals.*
